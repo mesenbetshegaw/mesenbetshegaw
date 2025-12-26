@@ -1,16 +1,27 @@
-## Hi there 👋
-
-<!--
-**mesenbetshegaw/mesenbetshegaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+👋 ሰላም! I'm Mesenbet Shegaw asaye
+🎓 Software Engineering Student | Ethiopia   
+💻 Technical Skills
+- **Programming Languages:** Java  ,go ,c++ 
+- **Mobile Development:** Flutter, Android
+*"በቴክኖሎጂ ኢትዮጵያን እያሻሻልኩ የምገኝ የቴክኖሎጂ ተማሪ ነኝ"*
+- **Web Development:** React, HTML/CSS, Thymeleaf
+- **Backend:** Java Spring Boot,
+- **Databases:** MySQL, PostgreSQL
+- **Tools:** Git, VS Code, Android Studio, IntelliJ IDEA and Eclipse
+- 
+- 📚 Currently Learning
+- Flutter State Management(mobile app)
+- Spring Boot Microservices(java framwork)
+- React Hooks and Context API(react)
+- 🚀 My Projects
+1. **[messi burger website](https://github.com/mesenbetshegaw/messi-burgerweb)**
+2. 📫 How to Reach Me
+- **Email:** mmesenbetshegaw@gmail.com
+- **LinkedIn:**
+- **Telegram:** @mmmessi
+- **Phone:** +251-964874533
+- Languages
+- **Amharic:** Native
+- **English:** Fluent
+3. 
+*"በቴክኖሎጂ ኢትዮጵያን እያሻሻልኩ የምገኝ የቴክኖሎጂ ተማሪ ነኝ"*
