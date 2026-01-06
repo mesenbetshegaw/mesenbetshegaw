@@ -1,11 +1,12 @@
 👋 ሰላም! I'm Mesenbet Shegaw asaye
 🎓 Software Engineering Student | Ethiopia   
 💻 Technical Skills
-- **Programming Languages:** Java  ,go ,c++ 
-- **Mobile Development:** Flutter, Android
+ -** I will devoping machin learning in python know 
+- **Programming Languages:** Java ,python ,c++  allmost this languege is  training know 
+- **Mobile Development:** Flutter  
 *"በቴክኖሎጂ ኢትዮጵያን እያሻሻልኩ የምገኝ የቴክኖሎጂ ተማሪ ነኝ"*
 - **Web Development:** React, HTML/CSS, Thymeleaf
-- **Backend:** Java Spring Boot,
+- **Backend:** Java Spring Boot and python,
 - **Databases:** MySQL, PostgreSQL
 - **Tools:** Git, VS Code, Android Studio, IntelliJ IDEA and Eclipse
 - 
@@ -13,6 +14,7 @@
 - Flutter State Management(mobile app)
 - Spring Boot Microservices(java framwork)
 - React Hooks and Context API(react)
+- machine learning and ai in know 
 - 🚀 My Projects
 1. **[messi burger website](https://github.com/mesenbetshegaw/messi-burgerweb)**
 2. 📫 How to Reach Me
