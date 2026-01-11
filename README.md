@@ -4,8 +4,7 @@
  -** I will devoping machin learning in python know 
 - **Programming Languages:** Java ,python ,c++  allmost this languege is  training know 
 - **Mobile Development:** Flutter  
-*"በቴክኖሎጂ ኢትዮጵያን እያሻሻልኩ የምገኝ የቴክኖሎጂ ተማሪ ነኝ"*
-- **Web Development:** React, HTML/CSS, Thymeleaf
+- **Web Development:** React, Thymeleaf
 - **Backend:** Java Spring Boot and python,
 - **Databases:** MySQL, PostgreSQL
 - **Tools:** Git, VS Code, Android Studio, IntelliJ IDEA and Eclipse
@@ -17,7 +16,8 @@
 - machine learning and ai in know 
 - 🚀 My Projects
 1. **[messi burger website](https://github.com/mesenbetshegaw/messi-burgerweb)**
-2. 📫 How to Reach Me
+2. 
+3. 📫 How to Reach Me
 - **Email:** mmesenbetshegaw@gmail.com
 - **LinkedIn:**
 - **Telegram:** @mmmessi
@@ -25,5 +25,4 @@
 - Languages
 - **Amharic:** Native
 - **English:** Fluent
-3. 
-*"በቴክኖሎጂ ኢትዮጵያን እያሻሻልኩ የምገኝ የቴክኖሎጂ ተማሪ ነኝ"*
+
